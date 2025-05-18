@@ -1,0 +1,1 @@
+console.log('LuckyCat Pro Final Full is ready.');
